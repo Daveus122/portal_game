@@ -1,0 +1,6 @@
+flask==3.0.3
+strawberry-graphql[flask]==0.235.0
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.30
+requests==2.31.0
+flask-cors==4.0.1
